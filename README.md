@@ -119,7 +119,7 @@ I've shipped across AgTech, FinTech, healthcare and commerce: a savings platform
 
 ### 🎓 Education & certifications
 
-**MSc Computer Applications** · Veer Narmad South Gujarat University · Gold Medalist, CGPA 9.00/10
+**MSc Computer Applications** · Veer Narmad South Gujarat University · Gold Medalist, CGPA 9.00/10<br />
 **BSc Computer Science** · Veer Narmad South Gujarat University · CGPA 8.95/10
 
 Google Associate Android Developer · Google Mobile Web Specialist · AWS Cloud Practitioner · Certified Scrum Master · ISTQB Certified Tester
