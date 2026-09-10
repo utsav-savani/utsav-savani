@@ -1,9 +1,5 @@
 <div align="center">
-
-# Utsav Savani
-
-### Flutter &amp; AI Engineer &nbsp;·&nbsp; Surat, India
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:13B9FD,100:7C4DFF&height=200&section=header&text=Utsav%20Savani&fontColor=ffffff&fontSize=52&fontAlignY=34&desc=Flutter%20%26%20AI%20Engineer%20%C2%B7%20Surat,%20India&descAlignY=54&descSize=18" width="100%" alt="header" />
 </div>
 
 <div align="center">
@@ -85,6 +81,14 @@ My specialism is the overlap: **AI that lives inside real apps.** Not a chatbot 
   <img src="https://streak-stats.demolab.com/?user=utsav-savani&theme=react&hide_border=true&background=0D1117&ring=02569B&fire=13B9FD&currStreakLabel=13B9FD&sideLabels=C9D1D9&dates=8B949E" alt="streak" />
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/utsav-savani/utsav-savani/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/utsav-savani/utsav-savani/output/github-snake.svg" />
+    <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/utsav-savani/utsav-savani/output/github-snake.svg" />
+  </picture>
+</div>
+
 ---
 
 ### 📌 Public work
@@ -102,4 +106,5 @@ My specialism is the overlap: **AI that lives inside real apps.** Not a chatbot 
 
 <div align="center">
   <sub><b>Flutter developer · AI engineer · generative AI · cross-platform mobile apps · FastAPI · Surat, India</b></sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C4DFF,50:13B9FD,100:02569B&height=120&section=footer" width="100%" alt="footer" />
 </div>
