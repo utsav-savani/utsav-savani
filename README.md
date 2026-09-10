@@ -76,7 +76,7 @@ I've shipped across AgTech, FinTech, healthcare and commerce: a savings platform
 > 🔒 **Why most of my work isn't here.** Client and product code sits under NDA in private repositories — 80+ of them. The public repos below are a smaller sample: demos, take-home projects and experiments that show how I structure and reason about code. The contribution graph tells the fuller story.
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=utsav-savani&theme=react&hide_border=true&background=0D1117&ring=02569B&fire=13B9FD&currStreakLabel=13B9FD&sideLabels=C9D1D9&dates=8B949E" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=utsav-savani&theme=react&hide_border=true&background=0D1117&ring=02569B&fire=13B9FD&currStreakLabel=13B9FD&sideLabels=C9D1D9&dates=8B949E&disable_animations=true" alt="streak" />
 </div>
 
 <div align="center">
