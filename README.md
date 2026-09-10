@@ -107,8 +107,8 @@ I've shipped across AgTech, FinTech, healthcare and commerce: a savings platform
 | --- | --- |
 | **ABS Global** | AgTech livestock platform — herd genetics, calving events, breeding recommendations, offline-first for rural connectivity |
 | **Shoal Savings** | FinTech savings platform, 100,000+ users, bank-grade security under FCA compliance |
-| **Go2Work** | Cross-platform mobile app, shipped to both iOS and Android |
-| **Hattie B's** | Cross-platform mobile app, shipped to both iOS and Android |
+| **[Go2Work](https://apps.apple.com/us/app/go2work/id1609568719)** | Construction workforce scheduler built for Onsite Contractor Support — job scheduling, man-day control, crew dispatch and real-time profitability reporting · iOS + Android |
+| **[Hattie B's Hot Chicken](https://apps.apple.com/us/app/hattie-bs-hot-chicken/id1550059818)** | Ordering and loyalty app for the Nashville hot chicken chain — 4.9★ from 10,000+ ratings · iOS + Android |
 | **Trailer Truck** | Entertainment app — 300,000+ downloads, 4.6★ |
 | **Secure File Transfer** | Enterprise B2B file sharing on AWS S3 + CloudFront |
 | **MeraCRM** | B2B SaaS CRM serving 5,000+ businesses |
