@@ -1,9 +1,5 @@
 <div align="center">
-
-# Utsav Savani
-
-### Flutter &amp; AI Engineer &nbsp;·&nbsp; Surat, India
-
+  <img src="https://raw.githubusercontent.com/utsav-savani/utsav-savani/main/assets/header.svg" width="100%" alt="Utsav Savani — Flutter &amp; AI Engineer" />
 </div>
 
 <div align="center">
