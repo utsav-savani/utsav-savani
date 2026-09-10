@@ -16,7 +16,7 @@
 
 ### 👋 About me
 
-I'm a **Senior Flutter developer and mobile architect** with **7+ years** building cross-platform apps for production — currently at **Genus plc**, working on a livestock management platform used by 10,000+ farmers across 50+ countries.
+I'm a **Senior Flutter developer and mobile architect** with **8+ years** building cross-platform apps for production — currently at **Genus plc**, working on a livestock management platform used by 10,000+ farmers across 50+ countries.
 
 I've shipped across AgTech, FinTech, healthcare and commerce: a savings platform serving 100,000+ users, a note-taking app that reached 75,000+ downloads at 4.7★, and enterprise apps delivered as tech lead for a team of 12. My specialism is the overlap of **AI and mobile** — streaming LLM responses, generative UI, on-device ML — inside apps that have to load fast and work offline.
 
