@@ -93,11 +93,11 @@ I've shipped across AgTech, FinTech, healthcare and commerce: a savings platform
 
 | Role | Where | Highlights |
 | --- | --- | --- |
-| **Senior Flutter Developer & Mobile Engineer** | Genus plc · 2025–present | Livestock management platform — 10,000+ farmers in 50+ countries. Offline-first architecture (Hive, SQLite, sync queues, conflict resolution), AI camera scanner (ML Kit + TensorFlow Lite), Azure DevOps CI/CD. |
-| **Senior Flutter Developer & Mobile Architect** | Sleeksky Technology · 2024–2025 | Enterprise note-taking app — 75,000+ downloads, 4.7★. Firestore real-time sync, offline persistence, in-app purchases and subscriptions. |
-| **Senior Mobile Developer** | Stack Financial Technologies · 2023–2024 | Shoal savings platform — 100,000+ users. BLoC + event sourcing, GraphQL, AWS Cognito with MFA and biometric login, 94% test coverage. |
-| **Lead Flutter Developer & Tech Lead** | FlocknGo Technologies · 2022–2023 | Led 12 developers across 8 enterprise apps, 500,000+ combined users. Cut release cycle from 2 weeks to 2 days with Fastlane, GitHub Actions and Bitrise. |
-| **Senior Freelance Flutter Developer** | Independent · 2020–2022 | 30+ mobile apps — e-commerce (Stripe, WooCommerce), a real-time trading app, and a HIPAA-compliant healthcare platform. |
+| **Senior Flutter Developer & Mobile Engineer** | Genus plc | Livestock management platform — 10,000+ farmers in 50+ countries. Offline-first architecture (Hive, SQLite, sync queues, conflict resolution), AI camera scanner (ML Kit + TensorFlow Lite), Azure DevOps CI/CD. |
+| **Senior Flutter Developer & Mobile Architect** | Sleeksky Technology | Enterprise note-taking app — 75,000+ downloads, 4.7★. Firestore real-time sync, offline persistence, in-app purchases and subscriptions. |
+| **Senior Mobile Developer** | Stack Financial Technologies | Shoal savings platform — 100,000+ users. BLoC + event sourcing, GraphQL, AWS Cognito with MFA and biometric login, 94% test coverage. |
+| **Lead Flutter Developer & Tech Lead** | FlocknGo Technologies | Led 12 developers across 8 enterprise apps, 500,000+ combined users. Cut release cycle from 2 weeks to 2 days with Fastlane, GitHub Actions and Bitrise. |
+| **Senior Freelance Flutter Developer** | Independent | 30+ mobile apps — e-commerce (Stripe, WooCommerce), a real-time trading app, and a HIPAA-compliant healthcare platform. |
 
 ---
 
