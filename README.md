@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:13B9FD,100:7C4DFF&height=200&section=header&text=Utsav%20Savani&fontColor=ffffff&fontSize=52&fontAlignY=34&desc=Flutter%20%26%20AI%20Engineer%20%C2%B7%20Surat,%20India&descAlignY=54&descSize=18" width="100%" alt="header" />
+
+# Utsav Savani
+
+### Flutter &amp; AI Engineer &nbsp;·&nbsp; Surat, India
+
 </div>
 
 <div align="center">
@@ -106,5 +110,4 @@ My specialism is the overlap: **AI that lives inside real apps.** Not a chatbot 
 
 <div align="center">
   <sub><b>Flutter developer · AI engineer · generative AI · cross-platform mobile apps · FastAPI · Surat, India</b></sub>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C4DFF,50:13B9FD,100:02569B&height=120&section=footer" width="100%" alt="footer" />
 </div>
