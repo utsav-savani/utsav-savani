@@ -112,6 +112,9 @@ I've shipped across AgTech, FinTech, healthcare and commerce: a savings platform
 | **Trailer Truck** | Entertainment app — 300,000+ downloads, 4.6★ |
 | **Secure File Transfer** | Enterprise B2B file sharing on AWS S3 + CloudFront |
 | **MeraCRM** | B2B SaaS CRM serving 5,000+ businesses |
+| **FleetDesk** | Fleet management app built in Flutter |
+| **Photo Editor** | Photo editing app with advanced image processing |
+| **POS System** | Point-of-sale system built on clean architecture |
 
 <sub>Most of these are client-owned and closed-source. The public repos below are separate — demos and take-homes that show how I structure code.</sub>
 
