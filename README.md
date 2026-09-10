@@ -52,9 +52,6 @@ I'm a Flutter developer from Surat, India. I build production mobile apps — th
   <img src="https://streak-stats.demolab.com/?user=utsav-savani&theme=react&hide_border=true&background=0D1117&ring=02569B&fire=13B9FD&currStreakLabel=13B9FD&sideLabels=C9D1D9&dates=8B949E" alt="streak" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/utsav-savani/utsav-savani/blob/output/github-snake-dark.svg" alt="snake eating my contributions" />
-</div>
 
 ---
 
