@@ -16,11 +16,9 @@
 
 ### 👋 About me
 
-I'm a **Flutter developer and AI engineer** based in Surat, India. I build production software end to end — cross-platform mobile apps with generative AI embedded in them, the FastAPI backends and LLM pipelines behind them, the web and desktop surfaces beside them, and the CI/CD that ships all of it.
+I'm a **Senior Flutter developer and mobile architect** with **7+ years** building cross-platform apps for production — currently at **Genus plc**, working on a livestock management platform used by 10,000+ farmers across 50+ countries.
 
-My specialism is the overlap: **AI that lives inside real apps.** Not a chatbot bolted onto a screen — streaming LLM responses, generative UI that assembles itself from model output, on-device ML, retrieval and prompt pipelines with evals behind them, all inside apps that have to load fast and work offline.
-
----
+I've shipped across AgTech, FinTech, healthcare and commerce: a savings platform serving 100,000+ users, a note-taking app that reached 75,000+ downloads at 4.7★, and enterprise apps delivered as tech lead for a team of 12. My specialism is the overlap of **AI and mobile** — streaming LLM responses, generative UI, on-device ML — inside apps that have to load fast and work offline.
 
 ### 🧩 What I build
 
@@ -88,6 +86,43 @@ My specialism is the overlap: **AI that lives inside real apps.** Not a chatbot 
     <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/utsav-savani/utsav-savani/output/github-snake.svg" />
   </picture>
 </div>
+
+---
+
+### 💼 Experience
+
+| Role | Where | Highlights |
+| --- | --- | --- |
+| **Senior Flutter Developer & Mobile Engineer** | Genus plc · 2025–present | Livestock management platform — 10,000+ farmers in 50+ countries. Offline-first architecture (Hive, SQLite, sync queues, conflict resolution), AI camera scanner (ML Kit + TensorFlow Lite), Azure DevOps CI/CD. |
+| **Senior Flutter Developer & Mobile Architect** | Sleeksky Technology · 2024–2025 | Enterprise note-taking app — 75,000+ downloads, 4.7★. Firestore real-time sync, offline persistence, in-app purchases and subscriptions. |
+| **Senior Mobile Developer** | Stack Financial Technologies · 2023–2024 | Shoal savings platform — 100,000+ users. BLoC + event sourcing, GraphQL, AWS Cognito with MFA and biometric login, 94% test coverage. |
+| **Lead Flutter Developer & Tech Lead** | FlocknGo Technologies · 2022–2023 | Led 12 developers across 8 enterprise apps, 500,000+ combined users. Cut release cycle from 2 weeks to 2 days with Fastlane, GitHub Actions and Bitrise. |
+| **Senior Freelance Flutter Developer** | Independent · 2020–2022 | 30+ mobile apps — e-commerce (Stripe, WooCommerce), a real-time trading app, and a HIPAA-compliant healthcare platform. |
+
+---
+
+### 📱 Selected apps
+
+| App | What it is |
+| --- | --- |
+| **ABS Global** | AgTech livestock platform — herd genetics, calving events, breeding recommendations, offline-first for rural connectivity |
+| **Shoal Savings** | FinTech savings platform, 100,000+ users, bank-grade security under FCA compliance |
+| **Go2Work** | Cross-platform mobile app, shipped to both iOS and Android |
+| **Hattie B's** | Cross-platform mobile app, shipped to both iOS and Android |
+| **Trailer Truck** | Entertainment app — 300,000+ downloads, 4.6★ |
+| **Secure File Transfer** | Enterprise B2B file sharing on AWS S3 + CloudFront |
+| **MeraCRM** | B2B SaaS CRM serving 5,000+ businesses |
+
+<sub>Most of these are client-owned and closed-source. The public repos below are separate — demos and take-homes that show how I structure code.</sub>
+
+---
+
+### 🎓 Education & certifications
+
+**MSc Computer Applications** · Veer Narmad South Gujarat University · Gold Medalist, CGPA 9.00/10
+**BSc Computer Science** · Veer Narmad South Gujarat University · CGPA 8.95/10
+
+Google Associate Android Developer · Google Mobile Web Specialist · AWS Cloud Practitioner · Certified Scrum Master · ISTQB Certified Tester
 
 ---
 
