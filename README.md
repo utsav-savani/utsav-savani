@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:13B9FD,100:7C4DFF&height=200&section=header&text=Utsav%20Savani&fontColor=ffffff&fontSize=52&fontAlignY=34&desc=Flutter%20%26%20AI%20Engineer%20%C2%B7%20Surat,%20India&descAlignY=54&descSize=18" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:13B9FD,100:7C4DFF&height=200&section=header&text=Utsav%20Savani&fontColor=ffffff&fontSize=52&fontAlignY=34&desc=Flutter%20%26%20AI%20Engineer%20%C2%B7%20Surat,%20India&descAlignY=54&descSize=18&v=2" width="100%" alt="header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=02569B&center=true&vCenter=true&width=700&height=45&lines=Flutter+apps+with+AI+built+in%2C+not+bolted+on;Generative+UI+%26+on-device+ML;Mobile+%C2%B7+Web+%C2%B7+macOS+%C2%B7+Windows+%C2%B7+Backend;FastAPI+%2B+OpenAI+%2F+Anthropic+%2F+Gemini;Clean+architecture%2C+CI%2FCD%2C+shipped+to+production" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=02569B&center=true&vCenter=true&width=700&height=45&v=2&lines=Flutter+apps+with+AI+built+in%2C+not+bolted+on;Generative+UI+%26+on-device+ML;Mobile+%C2%B7+Web+%C2%B7+macOS+%C2%B7+Windows+%C2%B7+Backend;FastAPI+%2B+OpenAI+%2F+Anthropic+%2F+Gemini;Clean+architecture%2C+CI%2FCD%2C+shipped+to+production" alt="typing" />
 </div>
 
 <div align="center">
@@ -98,5 +98,5 @@ My specialism is the overlap: **AI that lives inside real apps.** Not a chatbot 
 
 <div align="center">
   <sub><b>Flutter developer · AI engineer · generative AI · cross-platform mobile apps · FastAPI · Surat, India</b></sub>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C4DFF,50:13B9FD,100:02569B&height=120&section=footer" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C4DFF,50:13B9FD,100:02569B&height=120&section=footer&v=2" width="100%" alt="footer" />
 </div>
