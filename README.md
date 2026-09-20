@@ -16,25 +16,30 @@
 
 ### 👋 About me
 
-I'm a **Senior Flutter developer and mobile architect** with **8+ years** building cross-platform apps for production — currently at **Genus plc**, working on a livestock management platform used by 10,000+ farmers across 50+ countries.
+I'm a **full-stack product engineer** based in Surat, India, with **8+ years** building digital products, and I lead a **50-person design and engineering team**.
 
-I've shipped across AgTech, FinTech, healthcare and commerce: a savings platform serving 100,000+ users, a note-taking app that reached 75,000+ downloads at 4.7★, and enterprise apps delivered as tech lead for a team of 12. My specialism is the overlap of **AI and mobile** — streaming LLM responses, generative UI, on-device ML — inside apps that have to load fast and work offline.
+We own every layer: we design the product in **Figma**, build it as a cross-platform app in **Flutter**, write the **backend**, and run it in the cloud on **Supabase, Firebase, AWS** or **Google Cloud** — with CI/CD shipping it. No handoffs between a designer, an app shop and a backend contractor; one team, one point of accountability.
+
+My specialism is the overlap of **AI and product**: streaming LLM responses, generative UI assembled from model output, on-device ML — inside apps that have to load fast and work offline.
 
 ### 🧩 What I build
 
 | Area | What that means in practice |
 | --- | --- |
+| **🎨 Product & UI design** | UI/UX, brand and logo design in Figma — we create the designs, not just implement someone else's. Design systems, prototypes and handoff-free delivery straight into Flutter. |
 | **📱 Mobile apps** | Cross-platform iOS + Android in Flutter & Dart. Feature-first clean architecture, Riverpod/BLoC, offline-first data, native channels where they earn their place. |
 | **🤖 AI & generative AI** | LLM integration with OpenAI, Anthropic Claude and Google Gemini. Streaming (SSE), generative UI, prompt engineering, evaluation harnesses, RAG, on-device ML and computer vision. |
 | **🖥️ Desktop apps** | macOS and Windows builds from the same Flutter codebase — real desktop targets, not stretched phone layouts. |
 | **🌐 Web** | Marketing sites and web apps in Astro, TypeScript and JavaScript, deployed to modern edge hosting. |
-| **⚙️ Backends & APIs** | Python and FastAPI services, JWT auth, Dockerised and deployed to Cloud Run, Render and Vercel. |
-| **🗄️ Databases** | Firebase / Firestore, Redis, Isar and SQLite — schema design, offline sync, caching strategy. |
+| **⚙️ Backends & APIs** | Python and FastAPI services, REST and realtime, JWT auth, Dockerised and deployed to AWS, Google Cloud Run, Render and Vercel. |
+| **🗄️ Databases** | Supabase, Firebase / Firestore, PostgreSQL, Redis, Isar and SQLite — schema design, auth, offline sync, caching strategy. |
 | **🚀 DevOps & CI/CD** | GitHub Actions pipelines — PR checks, automated builds and release delivery for mobile and backend. |
 
 ---
 
 ### 🛠️ Tech
+
+**Design** — Figma · UI/UX · design systems · brand and logo
 
 **Languages** — Dart · Python · TypeScript · JavaScript · SQL
 
@@ -42,9 +47,9 @@ I've shipped across AgTech, FinTech, healthcare and commerce: a savings platform
 
 **AI/ML** — OpenAI · Anthropic Claude · Google Gemini · generative UI · RAG · prompt engineering · LLM evals · on-device ML
 
-**Backend** — FastAPI · Pydantic · REST · SSE streaming · JWT · Redis
+**Backend & data** — FastAPI · Pydantic · REST · SSE streaming · JWT · Supabase · Firebase · PostgreSQL · Redis
 
-**Infra** — Docker · GitHub Actions · Google Cloud Run · Render · Vercel · GitHub Pages
+**Infra** — AWS · Google Cloud Run · Docker · GitHub Actions · Render · Vercel · GitHub Pages
 
 <div align="center">
 
@@ -58,6 +63,8 @@ I've shipped across AgTech, FinTech, healthcare and commerce: a savings platform
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
